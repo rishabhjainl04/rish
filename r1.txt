@@ -1,0 +1,4 @@
+myself
+hello
+hi 
+bye
