@@ -2,3 +2,4 @@ myself
 hello
 hi 
 bye
+namste
